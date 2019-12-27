@@ -1,5 +1,5 @@
 # Anomaly Detection Tool
-"Visual Pattern Recognition" course (DCC831) - Graduate Program in Computer Science ([PPGCC](http://www.dcc.ufmg.br/Pos-graduacao/pesquisa/gruposdet.php?numaut=23)/[UFMG](https://ufmg.br/international-visitors)). 
+"[Visual Pattern Recognition](http://www.dcc.ufmg.br/Pos-graduacao/pesquisa/gruposdet.php?numaut=23)" course (DCC831) - Graduate Program in Computer Science ([PPGCC](http://ppgcc.dcc.ufmg.br/en/)/[UFMG](https://ufmg.br/international-visitors)). 
 
 Professor: [William Robson Schwartz](http://william.dcc.ufmg.br/).
 
