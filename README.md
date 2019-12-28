@@ -8,7 +8,7 @@ Professor: [William Robson Schwartz](http://william.dcc.ufmg.br/).
 Implement a method that, given an input image like those shown in Figure 1, detects anomalous regions ([Instructions in Portuguese](https://github.com/pedbrgs/anomaly-detection-tool/blob/master/Instructions-PT.pdf)).
 <figure>
   <p align="center">
-  <img src="https://i.ibb.co/wKCFnRq/img1-1.jpg" width="425"/> <img src="https://lh3.googleusercontent.com/cGZ__XMDjEG7Hr83kUQ-oEndZxHXusOeeyHb6eNvMTd9yDBG_rpENWwcQuoefmPXs6QTJPNZ3g6xhJF-FACpM_IQBWZwQk_g-xnQty4Mk-_CcJbrE9wjNXrAwQV0hd3HDoZHqyzfXV05kot9PMNGUcYijnp6rBALXEROih8na4vp2l7fu3UrhIexncf5XgOB1cc8sgs08mGG3KRoesEwj3FyPEG9vYsnWlkzMynDT8qv8taGpS2oRb74MyhGW3ClO3T5cnW1W43f1Twqs26LV0uuRhSofywNzTnt2gitogPXuMxD2VR_hMQnB7sCm4F9ohQ6x9rUXQT_9y2eYS5yc6suCYUKb9lVVAn_WIR6JEJJUtXOZdscQvGH_JDLblOTprGfyuQb8jepdku4h-euqt-zUSYKYpJ14rej5pr6UUapfc0VGz7ZwW4GQ3SxnEAT35J3HaiNXmuxNAyicg3eTrerZAzCKXYOuL0DETM0u7FK6IBg7JGMVaZ8Utq9itayQWRYYfpeUqgyZPCtPHMiZ2h01CHbHUb9AsnoOglKa22zxzXGObVrZoTwSRn6HdgZrB20GnAB7odKTtqIgCHxT3icf47H73KixreLT1EiKlt07DrE_Z6YaBlVVzFGVnh5OfnrW7RH76HVH88ZEBBTWDWgOgSPPmJFBfyT80S0EkAc7TEGf_x7HJlX=w595-h446-no" width="425"/> 
+  <img src="https://i.ibb.co/wKCFnRq/img1-1.jpg" width="425"/> <img src="https://i.ibb.co/HgHhpCv/img5-1.jpg" width="425"/> 
   <figcaption><p align="center">Figure 1: Input image examples.</p></figcaption>
   </p>
 </figure>
@@ -17,7 +17,7 @@ Implement a method that, given an input image like those shown in Figure 1, dete
 
 <figure>
   <p align="center">
-    <img src="https://lh3.googleusercontent.com/Upkzy7ogynverDR5nyo7XnwEiEw2JKh08h3PFXljeV5dWgWFV8j8Oj05UgFNzgyKV_0mHKG2s3AsK8lOwrLvFveyd0PTwYDWkN2SMd5Aw3MQHOZswBbn53ptqs4tTVaQ3S-m2rgo0w-7c_68beVz59BlsFfSDXlh_NzCrMOHY0MSi2z1FX-iT6q0_G-6yPRSZ7fg_50O8LeACkEiEYOmCR_TQmdPEt9ZIWn98RiSgUuEQ-fswtgNNn1p186JxRsivFiNGlFGhIqpCSZxNtbHTFS9tZ4agDWf4soLb8reiC4H_CSdzltOURAcYpiIJWby01RFvwWTsG6-Bo2HzfzN9ZA_TkiOoOM-B4SoPZni2RpLBZrMgXaq7XtQ3q7rH1Q4fmjOHBduZEpAIP-pUDQLmTwSVtslXQRs7ns49QhPv-wM2tA4G3ntFmTOClUF6qnsjjCCrfz6D1W6pserVvO_GKTM2QktgSObHvCX3Bca1_By114pxmMXb0gv6E54BDqjrp0IDBiFRNk6toqIdYJKC0c55isyZu8nmXscE6GpCF-rPeWuCW9sJ-pwvYnterr5AgzAPFobiBC__1gkJGxtAdK4-8z5pz2XCWz_zFtv-_Jv60vH3bX-Hf6LlMS7LxPnZaOqrDPTrU8e4amq1xIfzLBvsepbtPzGZyECv0MbpJYGHdGod5EzDGok=w526-h525-no" width="40%">
+    <img src="https://i.ibb.co/L5BjPkK/process.png" width="40%">
     <figcaption><p align="center">Figure 2: Object segmentation through morphological filtering.</p></figcaption>
   </p>
 </figure>
