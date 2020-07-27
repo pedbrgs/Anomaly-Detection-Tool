@@ -1,7 +1,7 @@
 # Anomaly Detection Tool
 "[Visual Pattern Recognition](http://www.dcc.ufmg.br/Pos-graduacao/pesquisa/gruposdet.php?numaut=23)" course (DCC831) - Graduate Program in Computer Science ([PPGCC](http://ppgcc.dcc.ufmg.br/en/)/[UFMG](https://ufmg.br/international-visitors)). 
 
-Professor: [William Robson Schwartz](http://william.dcc.ufmg.br/).
+**Professor:** [William Robson Schwartz](http://william.dcc.ufmg.br/).
 
 ## Problem description
 
@@ -47,7 +47,7 @@ Implement a method that, given an input image like those shown in Figure 1, dete
   </p>
 </figure>
 
-For more results, go to [`results/`](https://github.com/pedbrgs/anomaly-detection-tool/tree/master/results) directory.
+For more results, go to [`results/`](https://github.com/pedbrgs/Anomaly-Detection-Tool/tree/master/results).
 
 ### Citation
 
@@ -57,6 +57,6 @@ For more results, go to [`results/`](https://github.com/pedbrgs/anomaly-detectio
        author = {Pedro Vinicius A. B. Venancio},
        title = {Anomaly Detection Tool},
        year = {2019},
-       howpublished = {\url{https://github.com/pedbrgs/anomaly-detection-tool/}}
+       howpublished = {\url{https://github.com/pedbrgs/Anomaly-Detection-Tool}}
 }
 ```
